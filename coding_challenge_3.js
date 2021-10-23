@@ -1,3 +1,4 @@
+// Avevage Calculation using difinding variables
 const firstScoreDalphins = 96,  secondScoreDalphins = 108, thirdScoreDalphins = 89;
 const firstScoreKoalas = 96,  secondScoreKoalas = 91, thirdScoreKoalas = 110;
 const firstBunusDalphins = 97, secondBunusDalphins = 112, thirdBunusDalphins = 101;
